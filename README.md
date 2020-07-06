@@ -1,5 +1,5 @@
 # joke-of-the-day
-A simple web scraping script to grab jokes from a website and save them to a file. Written in Python 2.7.6
+A simple web scraping script to grab jokes from a website and save them to a file.
 
 This file is a simple web scraping script used for educational purposes. A few things to note about this project:
 1. if you are the owner of the website(s) being scraped by this script, and do not wish to have it used, plrease notify me and I will promptly remove it from the script.
